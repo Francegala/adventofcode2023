@@ -1,0 +1,18 @@
+The next thing you notice is an Elf sitting on the floor across the 
+station in what seems to be a pile of colorful square cards.
+
+Picking one up, it looks like each card has two lists 
+of numbers separated by a vertical bar (|):
+
+a list of winning numbers and then a list of numbers you have.
+
+you have to figure out which of the numbers you have appear 
+in the list of winning numbers. 
+The first match makes the card worth one point 
+and each match after the first doubles the point value of that card.
+
+part 2
+Specifically, you win copies of the scratchcards below the winning card equal 
+to the number of matches. 
+So, if card 10 were to have 5 matching numbers, you would win one copy each of cards 11, 12, 13, 14, and 15.
+
